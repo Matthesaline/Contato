@@ -1,5 +1,5 @@
-header{
- background:#EEAEEE;
+body{
+ background:#CAE1FF;
  padding: 20px 0;}
  
 nav li {
@@ -113,7 +113,7 @@ form input{
 .enviar{
   width: 40%;
   padding: 15px 0;
-  background: purple;
+  background: black;
   color: white;
   font-weight: bold;
   font-size: 18px;
@@ -124,6 +124,6 @@ form input{
 }
 
 .enviar:hover{
-  background:darkpurple;
+  background:#000000;
   transform: scale(1.2);
 }
